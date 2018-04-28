@@ -20,18 +20,18 @@ var friendsData = [
     scores: [3, 3, 3, 3, 3, 3, 3, 3, 3, 3]
   },
   {
-    name: "Dr. Evil",
-    photo:"https://at-cdn-s01.audiotool.com/2012/05/28/documents/ei368KjdlP5qy6gILDLtH9cEAf6H/0/cover256x256-b31436c2a9bc4645b1ad67bc09705cd7.jpg",
+    name: "HAIL TO THE KING. You belong with the best.",
+    photo:"https://ia.media-imdb.com/images/M/MV5BOTY2MTg0OTEzOV5BMl5BanBnXkFtZTgwNzQ3NTcwMjE@._V1_UX214_CR0,0,214,317_AL_.jpg",
     scores: [5, 4, 4, 4, 4, 3, 2, 1, 5, 5]
   },
   {
-    name: "Mia Wallace",
-    photo:"https://s-media-cache-ak0.pinimg.com/originals/a9/01/29/a9012982eea651ee31e21f4ad11fe96b.jpg",
+    name: "Nebula. She's Out of this World.",
+    photo:"https://ewedit.files.wordpress.com/2017/04/karen-gillan-guardians-of-the-galaxy-2.jpg",
     scores: [2, 4, 2, 4, 2, 3, 4, 4, 4, 3]
   },
   {
-    name: "Princess Leia",
-    photo:"http://images.techtimes.com/data/images/full/168082/princess-leia-organa.jpg?w=600",
+    name: "Duggee! He's animated! Then again, so are you!",
+    photo:"https://pbs.twimg.com/profile_images/783242813941149696/wPfbN6b-_400x400.jpg",
     scores: [5, 4, 5, 4, 5, 3, 3, 3, 2, 4]
   }
 ];
