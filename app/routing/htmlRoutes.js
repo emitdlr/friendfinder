@@ -1,5 +1,6 @@
 
-var html = function () {// Basic route that sends the user first to the AJAX Page
+var html = function () {
+// Basic route that sends the user first to the AJAX Page
     this.home = function (req, res) {
         app.get("/app/public/", function(req, res) {
 
@@ -13,3 +14,5 @@ var html = function () {// Basic route that sends the user first to the AJAX Pag
 }
 
 module.exports = html;
+
+}}

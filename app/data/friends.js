@@ -1,7 +1,7 @@
 var friendsData = [
   {
-    name: "Derek Zoolander",
-    photo: "http://i.dailymail.co.uk/i/pix/2016/11/29/23/3ADE7BB300000578-3984172-image-a-3_1480463290213.jpg",
+    name: "That Woman from Quantico. Exotic, and has Guns",
+    photo: "https://beautyeditor.ca/.image/t_share/MTU0NDgxMDA4Njk4MjA1NzQ3/priyanka-chopra-before-and-after-1.jpg",
     scores: [3, 4, 3, 3, 4, 4, 4, 1, 5, 3]
   },
   {
@@ -15,8 +15,8 @@ var friendsData = [
     scores: [1, 1, 1, 1, 1, 1, 1, 1, 1, 1]
   },
   {
-    name: "Trinity",
-    photo:"http://vignette3.wikia.nocookie.net/matrix/images/6/67/Trinityfull.jpg/revision/latest?cb=20060803214449",
+    name: "Thanos. He's Evil, You're Evil. Time to hook up.",
+    photo:"https://www.sideshowtoy.com/wp-content/uploads/2018/04/marvel-avengers-infinity-war-thanos-sixth-scale-figure-hot-toys-feature-903429-1.jpg",
     scores: [3, 3, 3, 3, 3, 3, 3, 3, 3, 3]
   },
   {
