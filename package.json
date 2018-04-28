@@ -9,14 +9,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/tomtom28/FriendFinder.git"
+    "url": "git+https://github.com/emitdlr/FriendFinder.git"
   },
   "author": "tomtom28",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/tomtom28/FriendFinder/issues"
+    "url": "https://github.com/emitdlr/FriendFinder/issues"
   },
-  "homepage": "https://github.com/tomtom28/FriendFinder#readme",
+  "homepage": "https://github.com/emitdlr/FriendFinder#readme",
   "dependencies": {
     "body-parser": "^1.18.2",
     "express": "^4.16.3",
